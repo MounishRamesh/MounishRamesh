@@ -55,28 +55,19 @@
 ### 🛠️ Tech Stack
 
 #### 💻 Languages
-<img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png"/> 
-<img src="https://img.icons8.com/color/48/python.png"/> 
-<img src="https://img.icons8.com/color/48/javascript.png"/>
+<img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png"/> <img src="https://img.icons8.com/color/48/python.png"/> <img src="https://img.icons8.com/color/48/javascript.png"/>
 
 #### 🌐 Frontend
-<img src="https://img.icons8.com/color/48/html-5.png"/> 
-<img src="https://img.icons8.com/color/48/css3.png"/> 
-<img src="https://img.icons8.com/color/48/react-native.png"/>
+<img src="https://img.icons8.com/color/48/html-5.png"/> <img src="https://img.icons8.com/color/48/css3.png"/> <img src="https://img.icons8.com/color/48/react-native.png"/>
 
 #### ⚙️ Backend
-<img src="https://img.icons8.com/color/48/spring-logo.png"/> 
-<img src="https://img.icons8.com/color/48/api-settings.png"/>
+<img src="https://img.icons8.com/color/48/spring-logo.png"/> <img src="https://img.icons8.com/color/48/api-settings.png"/>
 
 #### 🗄️ Database
-<img src="https://img.icons8.com/color/48/mysql-logo.png"/> 
-<img src="https://img.icons8.com/color/48/postgreesql.png"/>
+<img src="https://img.icons8.com/color/48/mysql-logo.png"/> <img src="https://img.icons8.com/color/48/postgreesql.png"/>
 
 #### 🔧 Tools
-<img src="https://img.icons8.com/color/48/git.png"/> 
-<img src="https://img.icons8.com/color/48/github.png"/> 
-<img src="https://img.icons8.com/color/48/visual-studio-code-2019.png"/> 
-<img src="https://img.icons8.com/color/48/postman-api.png"/>
+<img src="https://img.icons8.com/color/48/git.png"/> <img src="https://img.icons8.com/color/48/github.png"/> <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png"/> <img src="https://img.icons8.com/color/48/postman-api.png"/>
 
 ---
 
