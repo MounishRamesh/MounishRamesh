@@ -32,17 +32,10 @@ Wrote 15+ SQL queries to track customer behavior and sales trends.
 
 ### 🛠️ Tech Stack
 
-#### 💻 Languages
-<img height="40" src="https://img.icons8.com/color/48/java-coffee-cup-logo.png"/> <img height="40" src="https://img.icons8.com/color/48/python.png"/> <img height="40" src="https://img.icons8.com/color/48/javascript.png"/>
+| 💻 Languages | 🌐 Frontend | ⚙️ Backend | 🗄️ Database |
+|-------------|------------|------------|-------------|
+| <img height="35" src="https://img.icons8.com/color/48/java-coffee-cup-logo.png"/> <img height="35" src="https://img.icons8.com/color/48/python.png"/> <img height="35" src="https://img.icons8.com/color/48/javascript.png"/> | <img height="35" src="https://img.icons8.com/color/48/html-5.png"/> <img height="35" src="https://img.icons8.com/color/48/css3.png"/> <img height="35" src="https://img.icons8.com/color/48/react-native.png"/> | <img height="35" src="https://img.icons8.com/color/48/spring-logo.png"/> <img height="35" src="https://img.icons8.com/color/48/api-settings.png"/> | <img height="35" src="https://img.icons8.com/color/48/mysql-logo.png"/> <img height="35" src="https://img.icons8.com/color/48/postgreesql.png"/> |
 
-#### 🌐 Frontend
-<img height="40" src="https://img.icons8.com/color/48/html-5.png"/> <img height="40" src="https://img.icons8.com/color/48/css3.png"/> <img height="40" src="https://img.icons8.com/color/48/react-native.png"/>
-
-#### ⚙️ Backend
-<img height="40" src="https://img.icons8.com/color/48/spring-logo.png"/> <img height="40" src="https://img.icons8.com/color/48/api-settings.png"/>
-
-#### 🗄️ Database
-<img height="40" src="https://img.icons8.com/color/48/mysql-logo.png"/> <img height="40" src="https://img.icons8.com/color/48/postgreesql.png"/>
 
 #### 🔧 Tools
 <img height="40" src="https://img.icons8.com/color/48/git.png"/> <img height="40" src="https://img.icons8.com/color/48/github.png"/> <img height="40" src="https://img.icons8.com/color/48/visual-studio-code-2019.png"/> <img height="40" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png"/>
