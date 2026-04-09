@@ -5,7 +5,6 @@
 
 ---
 <img align="right" width="260" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
-<br clear="right"/>
 
 ### 🔭 Profiles
 - 💼 LinkedIn: https://www.linkedin.com/in/mounish05/
