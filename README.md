@@ -2,7 +2,7 @@
 
 🎓 B.Tech – Artificial Intelligence & Data Science  
 💻 Aspiring Software Developer | Data Analyst | Full Stack Developer | Machine Learning  
-
+<br>
 <img align="right" width="280" height="200" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
 ---
