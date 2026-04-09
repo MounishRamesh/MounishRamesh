@@ -39,7 +39,7 @@ Wrote 15+ SQL queries to track customer behavior and sales trends.
 
 
 #### 🔧 Tools
-<img height="40" src="https://img.icons8.com/color/48/git.png"/> <img height="40" src="https://img.icons8.com/color/48/github.png"/> <img height="40" src="https://img.icons8.com/color/48/visual-studio-code-2019.png"/> <img height="40" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png"/>
+<img height="50" src="https://img.icons8.com/color/48/git.png"/> <img height="50" src="https://img.icons8.com/color/48/github.png"/> <img height="50" src="https://img.icons8.com/color/48/visual-studio-code-2019.png"/> <img height="50" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png"/>
 
 ---
 
