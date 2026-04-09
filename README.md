@@ -7,7 +7,7 @@
 
 ---
 
-### 🔭 Portfolio & Profiles
+### 🔭 Profiles
 - 💼 LinkedIn: https://www.linkedin.com/in/mounish05/
 - 💻 GitHub: https://github.com/MounishRamesh
 - 🧠 LeetCode: https://leetcode.com/u/Mounish_R/
@@ -15,40 +15,19 @@
 
 ---
 
-### 🌱 Currently Learning
-- Data Structures & Algorithms (Solved 500+ problems)
-- Full Stack Development (React + Spring Boot)
-- Backend Optimization & API Development
-- Data Analyst
-
----
-
-### 💼 Experience
-**Data Science Intern – YBI Foundation**  
-
 ### 🚀 Projects
 
-#### 🍔 Food Order Platform
+**🍔 Food Order Platform**  
 🔗 https://github.com/MounishRamesh/Food-Order-App  
-- Built using Python & MySQL  
-- Analyzed 500+ order records  
-- Identified sales trends & customer behavior  
+Built using Python & MySQL to analyze 500+ orders and identify sales trends.
 
----
-
-#### 🏥 Hospital Management System
+**🏥 Hospital Management System**  
 🔗 https://github.com/MounishRamesh/Hospital_Management_App  
-- Developed backend using Spring Boot  
-- Optimized database queries for faster performance  
-- Managed patient & staff records efficiently  
+Developed backend using Spring Boot with optimized database performance.
 
----
-
-#### 📊 SQL Retail Sales Analysis
+**📊 SQL Retail Sales Analysis**  
 🔗 https://github.com/MounishRamesh/Sql_projects  
-- Wrote 15+ complex SQL queries  
-- Identified high-value customers  
-- Tracked monthly sales trends  
+Wrote 15+ SQL queries to track customer behavior and sales trends.
 
 ---
 
@@ -71,11 +50,6 @@
 
 ---
 
-### 📊 GitHub Stats
-![Mounish's GitHub stats](https://github-readme-stats.vercel.app/api?username=MounishRamesh&show_icons=true&theme=dark)
-
----
-
 ### 🧠 LeetCode Stats
 [![Leetcode Stats](https://leetcard.jacoblin.cool/Mounish_R?theme=dark)](https://leetcode.com/u/Mounish_R/)
 
@@ -83,10 +57,15 @@
 
 ### ⚡ Achievements
 - Solved 500+ problems on LeetCode  
-- Led a team in Hackathon  
-- Participated in Paper Presentation at CIT  
+- Data Science Intern @ YBI Foundation
 
 ---
 
 ### 💡 Fun Fact
 I enjoy solving real-world problems through code and building scalable applications 🚀
+
+---
+
+### 🔗 Connect
+- 💼 LinkedIn: https://www.linkedin.com/in/mounish05/
+- 📧 Email: mounishr6680@gmail.com
