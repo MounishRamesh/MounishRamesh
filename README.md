@@ -4,7 +4,8 @@
 💻 Aspiring Software Developer | Data Analyst | Full Stack Developer | Machine Learning  
 
 ---
-<img align="right" width="350" height="280" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+<img align="right" width="260" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+<br clear="right"/>
 
 ### 🔭 Profiles
 - 💼 LinkedIn: https://www.linkedin.com/in/mounish05/
