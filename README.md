@@ -7,10 +7,10 @@
 <img align="right" width="260" height="190" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
 ### 🔭 Profiles
-- 💼 LinkedIn: https://www.linkedin.com/in/mounish05/
-- 💻 GitHub: https://github.com/MounishRamesh
-- 🧠 LeetCode: https://leetcode.com/u/Mounish_R/
-- 🏆 HackerRank: https://www.hackerrank.com/profile/mounishr6680
+- 💼 LinkedIn: https://www.linkedin.com/in/mounish05/  
+- 💻 GitHub: https://github.com/MounishRamesh  
+- 🧠 LeetCode: https://leetcode.com/u/Mounish_R/  
+- 🏆 HackerRank: https://www.hackerrank.com/profile/mounishr6680  
 
 ---
 
@@ -28,6 +28,10 @@ Developed backend using Spring Boot with optimized database performance.
 🔗 https://github.com/MounishRamesh/Sql_projects  
 Wrote 15+ SQL queries to track customer behavior and sales trends.
 
+**🤖 Predictive Analysis System**  
+🔗 https://github.com/MounishRamesh/Predictive-Analysis-System  
+Built an ML system to predict issues early, reducing manual work and improving safety.
+
 ---
 
 ### 🛠️ Tech Stack
@@ -36,10 +40,13 @@ Wrote 15+ SQL queries to track customer behavior and sales trends.
 |-------------|------------|------------|-------------|------------------|
 | <img height="50" src="https://img.icons8.com/color/48/java-coffee-cup-logo.png"/> <img height="50" src="https://img.icons8.com/color/48/python.png"/> <img height="50" src="https://img.icons8.com/color/48/javascript.png"/> | <img height="50" src="https://img.icons8.com/color/48/html-5.png"/> <img height="50" src="https://img.icons8.com/color/48/css3.png"/> <img height="50" src="https://img.icons8.com/color/48/react-native.png"/> | <img height="50" src="https://img.icons8.com/color/48/spring-logo.png"/> <img height="50" src="https://img.icons8.com/color/48/api-settings.png"/> | <img height="50" src="https://img.icons8.com/color/48/mysql-logo.png"/> <img height="50" src="https://img.icons8.com/color/48/postgreesql.png"/> | <img height="50" src="https://img.icons8.com/color/48/numpy.png"/> <img height="50" src="https://img.icons8.com/color/48/pandas.png"/> <img height="50" src="https://img.icons8.com/color/48/line-chart.png"/> |
 
-
+---
 
 #### 🔧 Tools
-<img height="50" src="https://img.icons8.com/color/48/git.png"/> <img height="50" src="https://img.icons8.com/color/48/github.png"/> <img height="50" src="https://img.icons8.com/color/48/visual-studio-code-2019.png"/> <img height="50" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png"/>
+<img height="50" src="https://img.icons8.com/color/48/git.png"/> 
+<img height="50" src="https://img.icons8.com/color/48/github.png"/> 
+<img height="50" src="https://img.icons8.com/color/48/visual-studio-code-2019.png"/> 
+<img height="50" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png"/>
 
 ---
 
@@ -60,5 +67,5 @@ I enjoy solving real-world problems through code and building scalable applicati
 ---
 
 ### 🔗 Connect
-- 💼 LinkedIn: https://www.linkedin.com/in/mounish05/
-- 📧 Email: mounishr6680@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/mounish05/  
+- 📧 Email: mounishr6680@gmail.com  
