@@ -22,30 +22,29 @@ Built using Python & MySQL to analyze 500+ orders and identify sales trends.
 
 **🏥 Hospital Management System**  
 🔗 https://github.com/MounishRamesh/Hospital_Management_App  
-Developed backend using Spring Boot with optimized database performance.
+Developed a Spring Boot backend with optimized database performance and REST APIs.
 
 **📊 SQL Retail Sales Analysis**  
 🔗 https://github.com/MounishRamesh/Sql_projects  
-Wrote 15+ SQL queries to track customer behavior and sales trends.
+Wrote 15+ SQL queries to analyze customer behavior, sales performance, and business trends.
 
 **🤖 Predictive Analysis System**  
 🔗 https://github.com/MounishRamesh/Predictive-Analysis-System  
-Built an ML system to predict issues early, reducing manual work and improving safety.
+Built a machine learning system to predict issues early, reducing manual effort and improving safety.
 
-### 🔗 Simple URL Shortener
-🔗 https://github.com/MounishRamesh/URL-Shortener  
+**🔗 Simple URL Shortener**  
+🔗 https://github.com/MounishRamesh/Simple-URL-Shortener  
 Built a scalable backend using Flask/Express.js to generate short URLs, manage URL mappings, and enable fast redirection.
 
-### 📅 Event Registration System
+**📅 Event Registration System**  
 🔗 https://github.com/MounishRamesh/Event-Registration-System  
-Developed a backend with Django/Express.js to manage events, user registrations, and event participation through REST APIs.
+Developed a backend using Django/Express.js to manage events, user registrations, and event participation through REST APIs.
 
-### 🍽️ Restaurant Management System
+**🍽️ Restaurant Management System**  
 🔗 https://github.com/MounishRamesh/Restaurant-Management-System  
-Built a backend system to manage orders, table reservations, menu, and inventory with automated order processing and REST APIs.
+Built a backend using Django/Express.js to manage orders, table reservations, menus, and inventory through REST APIs.
 
 ---
-
 ### 🛠️ Tech Stack
 
 | 💻 Languages | 🌐 Frontend | ⚙️ Backend | 🗄️ Database | 📊 Data Analytics |
