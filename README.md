@@ -59,7 +59,7 @@ Built a backend using Django/Express.js to manage orders, table reservations, me
 ---
 
 ### 🧠 LeetCode Stats
-[![Leetcode Stats](https://leetcard.jacoblin.cool/Mounish_R?theme=dark)](https://leetcode.com/u/Mounish-R/)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Mounish-R?theme=dark&font=Karma)](https://leetcode.com/u/Mounish-R/)
 
 ---
 
