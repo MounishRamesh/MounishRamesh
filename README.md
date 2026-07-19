@@ -32,6 +32,18 @@ Wrote 15+ SQL queries to track customer behavior and sales trends.
 🔗 https://github.com/MounishRamesh/Predictive-Analysis-System  
 Built an ML system to predict issues early, reducing manual work and improving safety.
 
+### 🔗 Simple URL Shortener
+🔗 https://github.com/MounishRamesh/URL-Shortener  
+Built a scalable backend using Flask/Express.js to generate short URLs, manage URL mappings, and enable fast redirection.
+
+### 📅 Event Registration System
+🔗 https://github.com/MounishRamesh/Event-Registration-System  
+Developed a backend with Django/Express.js to manage events, user registrations, and event participation through REST APIs.
+
+### 🍽️ Restaurant Management System
+🔗 https://github.com/MounishRamesh/Restaurant-Management-System  
+Built a backend system to manage orders, table reservations, menu, and inventory with automated order processing and REST APIs.
+
 ---
 
 ### 🛠️ Tech Stack
