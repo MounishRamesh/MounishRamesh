@@ -16,17 +16,6 @@
 
 ### 🚀 Projects
 
-**🍔 Food Order Platform**  
-🔗 https://github.com/MounishRamesh/Food-Order-App  
-Built using Python & MySQL to analyze 500+ orders and identify sales trends.
-
-**🏥 Hospital Management System**  
-🔗 https://github.com/MounishRamesh/Hospital_Management_App  
-Developed a Spring Boot backend with optimized database performance and REST APIs.
-
-**📊 SQL Retail Sales Analysis**  
-🔗 https://github.com/MounishRamesh/Sql_projects  
-Wrote 15+ SQL queries to analyze customer behavior, sales performance, and business trends.
 
 **🤖 Predictive Analysis System**  
 🔗 https://github.com/MounishRamesh/Predictive-Analysis-System  
@@ -44,6 +33,17 @@ Developed a backend using Django/Express.js to manage events, user registrations
 🔗 https://github.com/MounishRamesh/Restaurant-Management-System  
 Built a backend using Django/Express.js to manage orders, table reservations, menus, and inventory through REST APIs.
 
+**🍔 Food Order Platform**  
+🔗 https://github.com/MounishRamesh/Food-Order-App  
+Built using Python & MySQL to analyze 500+ orders and identify sales trends.
+
+**🏥 Hospital Management System**  
+🔗 https://github.com/MounishRamesh/Hospital_Management_App  
+Developed a Spring Boot backend with optimized database performance and REST APIs.
+
+**📊 SQL Retail Sales Analysis**  
+🔗 https://github.com/MounishRamesh/Sql_projects  
+Wrote 15+ SQL queries to analyze customer behavior, sales performance, and business trends.
 ---
 ### 🛠️ Tech Stack
 
