@@ -44,6 +44,7 @@ Developed a Spring Boot backend with optimized database performance and REST API
 **📊 SQL Retail Sales Analysis**  
 🔗 https://github.com/MounishRamesh/Sql_projects  
 Wrote 15+ SQL queries to analyze customer behavior, sales performance, and business trends.
+
 ---
 ### 🛠️ Tech Stack
 
